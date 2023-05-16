@@ -1,0 +1,22 @@
+.main{
+    background-color: aquamarine;
+    top: 20px;
+    height: 10px;
+    border-top: 20px;
+}
+.top{
+    display: content;
+    border-width: 20px;
+    background-color: white;
+}
+<h1>
+ <h1 class="Customer Name"></h1>
+ < class='Enter your first name'>
+ < class="Enter your last name">
+ <h2>Address</h2>
+<div class="street address">
+</div>
+</div>
+
+</head>
+</body>
